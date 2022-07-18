@@ -1,0 +1,118 @@
+body{
+  font-family: system-ui;
+  background-color: #FCF69C;
+  margin:0;
+  text-align: center;
+  font-family: verdana,sans-serif;
+}
+hr{
+
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 10px;
+  width: 10%;
+}
+h1{
+color:#36AE7C;
+margin: 2px 10px;
+width: 10%;
+
+}
+div{
+  background-color: #B4FF9F;
+  /*padding: 200px;*/
+}
+.top-container{
+  text-align: center;
+}
+
+.skills{
+  width: 50%;
+line-height: 2;
+margin: 100px auto 100px auto;
+text-align: left;
+}
+
+
+.Workexp{
+  width: 50%;
+line-height: 2;
+margin: 100px auto 100px auto;
+  text-align:left;
+
+}
+h3{
+  font-size: 22px;
+  color:#2F8F9D;
+}
+.top-cloud{
+  width: 250px;
+  height: 110px;
+ position: absolute;
+ padding-left: 200px;
+
+}
+
+.bottom-cloud{
+   width: 250px;
+   height: 110px;
+  position: relative;
+padding-right:900px;
+
+}
+
+.computer-img{
+  width: 280px;
+  height: 200px;
+  float: left;
+  margin-right: 10%;
+}
+
+
+.workingicon{
+  width: 200px;
+  height: 190px;
+  float:right;
+  margin-right: 10%;
+}
+
+.school{
+  width: 200px;
+  height: 200px;
+  position: relative;
+
+}
+table{
+  border-collapse: collapse;
+  width: 100%;
+}
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+tr:hover {background-color: #FFD24C;}
+th {
+  background-color: #04AA6D;
+  color: white;
+}
+.footer{
+background-color: #79DAE8;
+padding: 30px 0 20px;
+}
+
+a{
+  color: #1199E;
+  font-family: sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+ .copyright{
+   font-size:0.75rem;
+   color:#EAF6F6;
+   padding: 20px 0;
+ }
